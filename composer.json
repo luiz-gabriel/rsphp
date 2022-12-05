@@ -1,0 +1,17 @@
+{
+    "name": "luiz/scraping",
+    "type": "library",
+    "license": "apache2",
+    "autoload": {
+        "psr-4": {
+            "scraping": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luiz gabriel"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
